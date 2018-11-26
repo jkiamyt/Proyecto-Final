@@ -1,0 +1,13 @@
+def xem(x):
+    return(2*x**2+3)/5
+x0=0
+x1=0
+itera = 0
+for i in range(100):
+    x1=xem(x0)
+    if abs (1-x0)<0.001:
+        break
+    x0=x1
+    itera += 1
+print("la raiz es %.5f"%x1)
+print("eeee% iteración"%itera)
