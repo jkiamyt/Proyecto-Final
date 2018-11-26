@@ -1,0 +1,3 @@
+En este método se hacen la suma y resta de matrices con el mismo tamaño, de lo
+contrario no se puede. Para sumar o restar, simplemente se suman o restan los valores
+ubicados en las mismas casillas de cada matriz.
