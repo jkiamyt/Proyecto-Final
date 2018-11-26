@@ -1,0 +1,4 @@
+Se comienza este método con una estimación de 'x'. A partir de eso
+se hace un proceso iterativo para acercarnos al valor real. El
+proceso termina cuando g(xi-1)-xi = 0, de nuevo, siempre y cuando el
+error sea el que queremos.
