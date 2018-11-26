@@ -1,0 +1,4 @@
+Sirve para enconrar raíces de una función, o para encontrar sus máximos y mínimos
+utilizando la primera derivada y encontrando los cero o su aproximación para 
+esta nueva función. Al igual qye los otros métodos, el procedimiento se repite
+para obtener iteraciones suficientes.
