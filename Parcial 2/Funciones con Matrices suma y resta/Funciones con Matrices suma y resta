@@ -12,7 +12,6 @@ def suma (A,B):
     return C
 
 A = [[1,1],[1,1]]
-
 print (suma(A,A))
 
 def resta (A,B):
@@ -29,5 +28,4 @@ def resta (A,B):
     return C
 
 A = [[1,1],[1,1]]
-
 print (resta(A,A))
