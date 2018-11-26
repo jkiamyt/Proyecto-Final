@@ -1,1 +1,3 @@
-aergaergreg
+En este método se utilizan dos parámetros los cuales se van acercando hasta que convergen, 
+o que la separación entre ambos es muy pequeña. 
+Para que los valores converjan, se deben hacer varias iteraciones. 
