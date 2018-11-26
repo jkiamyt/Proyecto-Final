@@ -1,0 +1,4 @@
+En este método, se hace primero la matriz aumentada, para después hacer cero los valores inferiores
+a la diagonal. Y con esto podemos despejar el valos del una de las variables y sustituirlo en
+las ecuaciones que formamos de las otras variables, para también encontrar su valor. Y listo, con
+eso resolvemos el sistema de ecuaciones.
