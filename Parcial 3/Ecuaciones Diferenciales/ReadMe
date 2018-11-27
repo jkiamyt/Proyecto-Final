@@ -1,0 +1,3 @@
+En este método se necesita un valor inicial para de ahí utilizar una h pequeña y obtener el próximo valor.
+El método funciona porque tenemos la pendiente en el valor previo, y se calcula una nueva pendiente en el próximo valor
+entre más pequeño sea la h, más precisión tendrá el método.
