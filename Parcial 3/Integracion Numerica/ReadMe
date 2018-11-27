@@ -1,0 +1,3 @@
+El método sirve para encontrar el área debajo de la curva, al aproximarla con la suma de todos los 
+trapecios que caben debajo de ella, y tomando h como un valor pequeño, para que los trapecios
+llenen el espacio lo mejor posible.
