@@ -1,0 +1,4 @@
+En este método primero se deben acomodar las ecuaciones para sus variables 
+con mayor coeficiente queden acomodadas en la diagonal principal. Después se 
+despejan las variables para obtener fórmulas de cada una, la cual nos va a permitir 
+realizar las iteraciones siempre con el valor más reciente. 
